@@ -3,6 +3,9 @@
 [Oo]bj/
 [Bb]uild/
 [Bb]uilds/
+[Pp]lugins/
+[Ll]ogs/
+[Tt]extMesh Pro/
 Assets/AssetStoreTools*
 
 # Visual Studio cache directory
